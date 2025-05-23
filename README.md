@@ -6,4 +6,4 @@ healthcare and academic environments, based in Geneva, Genève, Switzerland, Sui
 - 🔭 I’m currently working on a universal ticketing solution integrating legacy software into a hospital environment.
 - ⚡ I've built my own GPT, Shakespeak, and did my Master's Thesis research on Knowledge Graph Generation in [Text2KGBenchmarker](git)
 - 💬 I previously developed a locker administration and tabular data management SaaS for services of the University of Geneva. 
-- 📫 How to reach me : by private message on [linkedin](www.linkedin.com/in/arthur-freeman-0b2175252). 
+- 📫 How to reach me : by private message on [linkedin](https://linkedin.com/in/arthur-freeman-0b2175252). 
